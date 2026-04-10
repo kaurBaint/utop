@@ -2,7 +2,7 @@
 header("Content-Type: application/json");
 
 // Database connection
-$conn = new mysqli("127.0.0.1", "root", "", "utop", 3306);
+$conn = new mysqli("127.0.0.1", "a1774c4c_root", "(@#m9g^gb2)g", "a1774c4c_utop", 3306);
 
 // Check connection
 if ($conn->connect_error) {
